@@ -12,20 +12,25 @@ This is a web-based application that utilizes the Django framework. The applicat
 ## Getting Started
 
 ```
+The commands to initialize the database:
 python manage.py makemigrations (this will create any SQL entries that need to go into the database)
 python manage.py migrate (this will apply the migrations)
-python manage.py createsuperuser (this will create the administrator login for your /admin)
+
+How to create an admin account the utilize the administration functions of the site:
+python manage.py createsuperuser
 ```
 
 ### Dependencies
 
 ```
+The command to install the necessary packages using the provided requirements text file:
 pip install -r requirements.txt
 ```
 
 ### Executing program
 
 ```
+The command to run the development server:
 python manage.py runserver
 ```
 
