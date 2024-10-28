@@ -45,6 +45,6 @@ Samuel Lagle
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [chatgpt](https://chatgpt.com/share/671bf733-c230-8010-84ec-80cdaacb8b4f)
+* [chatgpt](https://chatgpt.com/share/671fe4e6-45ec-8010-ba09-c72008ca1266)
 * [Django](https://docs.djangoproject.com/en/4.2/intro/)
 * [Bootstrap](https://getbootstrap.com/docs/5.3/components/modal/)
