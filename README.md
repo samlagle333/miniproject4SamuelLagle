@@ -36,7 +36,7 @@ python manage.py runserver
 
 ## Output
 
-This should run Django to start the server. Next, you can open a browser and type in the URL "http://127.0.0.1:8000" which will allow access to the site. 
+This should run Django to start the server. Next, you can open a browser and type in the URL "http://127.0.0.1:8000" which will allow access to the site. You can register for an account and then login. Afterward, you can use the polling functionality to vote or use the administration function to edit the questions and answers.
 
 ## Authors
 
