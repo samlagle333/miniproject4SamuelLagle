@@ -7,11 +7,14 @@
 
 ## Description
 
-
+This is a web-based application that utilizes the Django framework. The application itself allows for an admin to create questions and choices for users to vote on and tally the results.
 
 ## Getting Started
 
 ```
+python manage.py makemigrations (this will create any SQL entries that need to go into the database)
+python manage.py migrate (this will apply the migrations)
+python manage.py createsuperuser (this will create the administrator login for your /admin)
 ```
 
 ### Dependencies
@@ -38,5 +41,5 @@ Samuel Lagle
 
 Inspiration, code snippets, etc.
 * [chatgpt](https://chatgpt.com/share/671bf733-c230-8010-84ec-80cdaacb8b4f)
-* [Flask](https://flask.palletsprojects.com/en/stable/)
+* [Django](https://docs.djangoproject.com/en/4.2/intro/)
 * [Bootstrap](https://getbootstrap.com/docs/5.3/components/modal/)
